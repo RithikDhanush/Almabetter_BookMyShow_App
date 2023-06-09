@@ -33,7 +33,7 @@ Returns the newly created booking in JSON format
 Installation
 If you want to work on this project clone this repo
 
- git clone [https://github.com/Arpanwaddewar/bookmyshow-Almabetter.git](https://github.com/RithikDhanush/Almabetter_BookMyShow_App)
+ git clone [https://github.com/RithikDhanush/Almabetter_BookMyShow_App.git](https://github.com/RithikDhanush/Almabetter_BookMyShow_App)
 open this project on you local IDE and in the terminal do this commands one by one
 
 for Frotend

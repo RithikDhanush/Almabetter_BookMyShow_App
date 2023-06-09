@@ -16,7 +16,7 @@ const bookMovieSchema = new Schema({
   slot: { type: String },// the time slot for the movie
   seats: {
 
-// an object containing the seat numbers and their corresponding count
+//An object containing the seat numbers and their corresponding count
     A1: { type: Number },
     A2: { type: Number },
     A3: { type: Number },

@@ -1,8 +1,8 @@
 import React from "react";
 import "../styles/radioComponent.css";
 
-// Component for radio buttons used in movie and time selection
-// Function to handle radio button selection
+//Component for radio buttons used in movie and time selection
+//Function to handle radio button selection
 const RadioComponent = ({ text, changeSelection, data }) => {
 
 /* The handleChecked function is used to handle the radio button selection. It receives the selected value as an argument and calls the changeSelection function, 

@@ -55,7 +55,7 @@ value using the lastBookingDetails object. It also displays the time slot and mo
         </>
       ) : (
 
-// If lastBookingDetails does not exist, the component displays a message saying "No Previous Booking Found!"
+//If lastBookingDetails does not exist, the component displays a message saying "No Previous Booking Found!"
         <p className="no_previous_booking_msg">No Previous Booking Found!</p>
       )}
     </div>

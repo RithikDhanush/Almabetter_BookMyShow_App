@@ -47,7 +47,7 @@ array. The handleChangeMovie function is called when the user selects a movie, w
 in the context and stores it in local storage. */}      
       <div className="SM_main_container">
 
-{/* //The map() method loops through each element in the moviesList array and returns a 
+{/* The map() method loops through each element in the moviesList array and returns a 
 new array with a RadioComponent for each element.  */}
         {moviesList.map((el, index) => {
           return (

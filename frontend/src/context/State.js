@@ -1,4 +1,4 @@
- //This code defines a React component called BsState which uses the useState hook to manage the state of the application
+//This code defines a React component called BsState which uses the useState hook to manage the state of the application
 
 import React, { useState, useEffect } from "react";
 import BsContext from "./Context";

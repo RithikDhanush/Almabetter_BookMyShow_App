@@ -2,7 +2,7 @@
 const express = require("express"); 
 const app = express(); 
 
-// importing the connection.js file that connected to the database ( mongodb )
+//importing the connection.js file that connected to the database ( mongodb )
 const { connection } = require("./connection"); 
 
 /* These three lines import the middleware modules cors, body-parser, 

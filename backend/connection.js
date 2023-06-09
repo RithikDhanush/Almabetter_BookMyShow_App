@@ -1,6 +1,6 @@
 /* This code sets up the environment to establish a connection with the MongoDB database using Mongoose 
 and the mongodb package. It loads the environment variables using dotenv, retrieves the MongoDB URI 
-from the environment variables, and defines a function to connect to the MongoDB database. */
+from the environment variables, and defines a function to connect to the MongoDB database.*/
 
 /* This line loads the configuration from a .env file, which allows the use of environment variables in the code.
 The dotenv library is used to accomplish this. */

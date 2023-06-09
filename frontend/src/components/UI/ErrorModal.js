@@ -2,6 +2,7 @@ import React, { useContext } from "react";
 import BsContext from "../../context/Context";
 import "../styles/errorModal.css";
 
+
 function Modal(props) {
 /*This code is for a Modal component that displays an error message when triggered. The component is using 
 React hooks and context to access the error state and functions to control the display of the modal.  */

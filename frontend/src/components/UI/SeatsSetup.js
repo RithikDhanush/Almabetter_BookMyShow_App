@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import React, { useState ,useEffect } from "react";
 import "../styles/seatsSetup.css";
 
@@ -10,7 +11,7 @@ const SeatsInput = ({
   index,
 }) => {
 
-// Use state to manage the input value
+//Use state to manage the input value
   const [inputValue, setInputValue] = useState( "");
 
   useEffect(() => {

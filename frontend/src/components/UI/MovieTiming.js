@@ -13,7 +13,7 @@ const TimeShedule = () => {
 
   const { time, changeTime } = context;
 
-/* This code defines a function called handleChangeTime, which takes a value parameter. When this function is called, it invokes the changeTime 
+/*This code defines a function called handleChangeTime, which takes a value parameter. When this function is called, it invokes the changeTime 
 function with the value parameter and saves the value in the local storage */
   const handleChangeTime = useCallback((value) => {
 

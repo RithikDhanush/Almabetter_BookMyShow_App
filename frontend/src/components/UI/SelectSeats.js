@@ -1,4 +1,4 @@
-//importing  React, useState, useContext, useEffect, data from the seats array, the BsContext object, and the SeatsInput component.
+//Importing  React, useState, useContext, useEffect, data from the seats array, the BsContext object, and the SeatsInput component.
 import React, { useState, useContext, useEffect } from "react";
 import { seats } from "../../data";
 import "../styles/selectSeats.css";

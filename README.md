@@ -7,17 +7,20 @@ click on the line to see the project
 Frontend on netlify.com
 
 https://bms-dhanush.netlify.app
+
 Backend on cyclic.sh
 
 https://bookmytickets.cyclic.app/api/booking
+
 API Documentation
+
 Base URL
 https://bookmytickets.cyclic.app/api
 
 Booking
 get the booking
 
-  GET /booking
+GET /booking
 Returns a list of all bookings stored in the database in JSON format.
 
   post /booking

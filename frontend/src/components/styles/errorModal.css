@@ -1,0 +1,88 @@
+.modal-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 110vh;
+  background: none;
+  overflow: auto;
+  z-index: 1;
+  position: fixed;
+  top: -10vh;
+  transform: scale(0);
+
+}
+
+.modal-container.active {
+  animation: activemodal 0.5s;
+  transform: scale(1);
+}
+.modal {
+  background-color: #fefefe;
+  margin: auto;
+  border: 3px solid #000000;
+  text-align: center;
+  font-size: 30px;
+  border-radius: 5px;
+  width: 35%;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding :10px auto 10px auto
+}
+
+.modal-header {
+  text-align: left;
+  margin-left: 5px;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  padding: 15px 0px;
+  width: 100%;
+  border-bottom: 2px solid grey;
+}
+.modal-body {
+  padding: 10px 30px;
+  font-size: 30px;
+  text-align: justify;
+  word-wrap: break-word;
+  width: 100%;
+  text-align: center;
+}
+
+.modal-footer {
+  padding: 15px;
+  align-self: flex-end;
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
+.modal-footer button {
+  font-size: 18px;
+  color: #000000;
+  font-weight: bold;
+  border-radius: 10px;
+  padding: 5px 8px;
+  border: none;
+  cursor: pointer;
+}
+.modal-footer :first-child {
+  padding: 5px 12px;
+  background-color: green;
+}
+.modal-footer :last-child {
+  background-color: rgba(255, 0, 0, 0.77);
+}
+
+@keyframes activemodal {
+  from {
+    opacity: 0;
+    transform: scale(0);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}

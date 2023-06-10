@@ -1,23 +1,23 @@
 # Almabetter_BookMyShow_App
 This is a backend capston project is created with [MongoDB, Expressjs, Reactjs, Nodejs] .This Bookmyshow website have vary simple UI and this website is very easy to use ( userfriendly ) and it also work in any devices ( Responsiveness ) .
 
-Deployment Links
+## Deployment Links
 click on the line to see the project
 
-Frontend on netlify.com
+## Frontend on netlify.com
 
 https://bms-dhanush.netlify.app
 
-Backend on cyclic.sh
+## Backend on cyclic.sh
 
 https://bookmytickets.cyclic.app/api/booking
 
-API Documentation
+## API Documentation
 
 Base URL
 https://bookmytickets.cyclic.app/api
 
-Booking
+## Booking
 get the booking
 
 GET /booking
@@ -30,7 +30,7 @@ Schedule 	time	Required. your selected time
 Seats 	number	Required. no of seats you have seleacted
 Returns the newly created booking in JSON format
 
-Installation
+## Installation
 If you want to work on this project clone this repo
 
  git clone [https://github.com/RithikDhanush/Almabetter_BookMyShow_App.git](https://github.com/RithikDhanush/Almabetter_BookMyShow_App)
@@ -39,15 +39,25 @@ open this project on you local IDE and in the terminal do this commands one by o
 for Frotend
 cd frontend
 
+```bash
 npm install
+```
 
+```bash
 npm start
+```
+
 for backend
 cd backend
 
+```bash
 npm install
+```
 
-npm start 
+```bash
+npm start
+```
+
 This will start you frontend part in http://localhost:3000 and backend part running in http://localhost:8080
 
 How to use

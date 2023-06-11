@@ -6,7 +6,7 @@ click on the line to see the project
 
 ## Frontend on netlify.com
 
-https://bms-dhanush.netlify.app
+https://bookmyshow-app-dhanush.netlify.app/
 
 ## Backend on cyclic.sh
 

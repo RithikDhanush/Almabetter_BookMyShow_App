@@ -6,7 +6,7 @@ This is a backend capston project is created with [MongoDB, Expressjs, Reactjs, 
 click on the line to see the project 
 
 Frontend on netlify.com
- - https://bookmyshow-app-dhanush.netlify.app/ 
+ - https://bookmyshow-app-dhanush.netlify.app/
 
 Backend on cyclic.sh
 

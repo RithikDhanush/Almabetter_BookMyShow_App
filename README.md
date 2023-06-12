@@ -10,12 +10,12 @@ Frontend on netlify.com
 
 Backend on cyclic.sh
 
- - https://bookmytickets.cyclic.app/api/booking
+ - 
 
  ## API Documentation
 
 #### Base URL
-https://bookmytickets.cyclic.app/api
+
 
 #### Booking
 get  the booking

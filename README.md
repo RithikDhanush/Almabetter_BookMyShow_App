@@ -6,16 +6,17 @@ This is a backend capston project is created with [MongoDB, Expressjs, Reactjs, 
 click on the line to see the project 
 
 Frontend on netlify.com
- - https://bookmyshow-app-dhanush.netlify.app/
+ - https://almabetter-book-my-show-frontend-app-dhanush.vercel.app
 
 Backend on cyclic.sh
 
- - 
+ - https://almabetter-book-my-show-app-dhanush.vercel.app/api/booking
 
  ## API Documentation
 
 #### Base URL
 
+-https://almabetter-book-my-show-app-dhanush.vercel.app
 
 #### Booking
 get  the booking

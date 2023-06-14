@@ -35,7 +35,7 @@ the event of an error. */
   const [lastBookingDetails, setLastBookingDetails] = useState(null);
 
 // this is a backend api  
-  const url = "https://almabetter-book-my-show-app-dhanush.vercel.app/"
+  const url = "https://almabetter-book-my-show-app-dhanush.vercel.app"
 
 // Function to make a post request to the server with the booking details
   const handlePostBooking = async () => {

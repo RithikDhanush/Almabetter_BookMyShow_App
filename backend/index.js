@@ -21,7 +21,13 @@ app.use(bodyParser.json());
 
 
 // cors is used to enable cross-origin requests from the client-side.
-app.use(cors()); 
+app.use(cors(
+  {
+    origin: ["https://almabetter-bookmyshow-app-1whq.vercel.app"],
+    methods: ["POST","GET"],
+    credentials: true
+  }
+)); 
 
 
 //This code calls the connection function to connect to a MongoDB database.

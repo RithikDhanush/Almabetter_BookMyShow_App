@@ -23,7 +23,7 @@ app.use(bodyParser.json());
 // cors is used to enable cross-origin requests from the client-side.
 app.use(cors(
   {
-    origin: ["https://almabetter-bookmyshow-app-1whq.vercel.app"],
+    origin: ["https://almabetter-book-my-show-app-dhanush.vercel.app/"],
     methods: ["POST","GET"],
     credentials: true
   }

@@ -16,7 +16,7 @@ Backend on cyclic.sh
 
 #### Base URL
 
--https://almabetter-book-my-show-app-dhanush.vercel.app
+- https://almabetter-book-my-show-app-dhanush.vercel.app
 
 #### Booking
 get  the booking

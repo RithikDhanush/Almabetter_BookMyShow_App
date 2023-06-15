@@ -5,10 +5,10 @@ This is a backend capston project is created with [MongoDB, Expressjs, Reactjs, 
 
 click on the line to see the project 
 
-Frontend on netlify.com
+Frontend on vercel.com
  - https://almabetter-book-my-show-frontend-app-dhanush.vercel.app
 
-Backend on cyclic.sh
+Backend on vercel.com
 
  - https://almabetter-book-my-show-app-dhanush.vercel.app/api/booking
 

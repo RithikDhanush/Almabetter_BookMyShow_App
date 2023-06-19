@@ -23,7 +23,7 @@ mongoose.set("strictQuery", true);
 /* This line retrieves the MongoDB connection URI from the environment variables using process.env. 
 The connection URI should be stored in the "MONGODBURI" environment variable. 
 This allows the code to connect to the specified MongoDB server. */
-const mongoURI = "mongodb+srv://dhanushrithik5109:rithik@cluster0.o0wyqli.mongodb.net/";
+const mongoURI = process.env.MONGODBURI;
 
 
 

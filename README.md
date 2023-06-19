@@ -5,18 +5,18 @@ This is a backend capston project is created with [MongoDB, Expressjs, Reactjs, 
 
 click on the line to see the project 
 
-Frontend on vercel.com
- - https://almabetter-book-my-show-frontend-app-dhanush.vercel.app
+Frontend on netlify.com
+ - https://almabetter-bookmyshowapp-app-dhanush.netlify.app/
 
-Backend on vercel.com
+Backend on render.com
 
- - https://almabetter-book-my-show-app-dhanush.vercel.app/api/booking
+ - https://almabetter-bookmyshow-app-dhanush.onrender.com/api/booking
 
  ## API Documentation
 
 #### Base URL
 
-- https://almabetter-book-my-show-app-dhanush.vercel.app
+- https://almabetter-bookmyshow-app-dhanush.onrender.com
 
 #### Booking
 get  the booking

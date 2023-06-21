@@ -69,7 +69,7 @@ npm start
 ## How to use
 
 Click on this link for using the website
- - https://bookmyshow-app-dhanush.netlify.app/
+ - https://almabetter-bookmyshowapp-app-dhanush.netlify.app/
  1) First select movie you like 
  2) select time schedule 
  3) select seats
@@ -104,3 +104,4 @@ For support,
 - dhanushrithik5109@gmail.com
   
 ## Linkedin
+- https://www.linkedin.com/in/rithik-dhanush-6b3a6b250
